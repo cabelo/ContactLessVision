@@ -17,3 +17,5 @@ Using inference with openVINO technology, it is possible to move the mouse when 
 ## Technologies Used
 - openVINO
 - Realsense
+
+[![image](https://github.com/cabelo/ContactLessVision/assets/675645/54ba877f-b4ae-456e-b0d0-575262563ca5)](https://www.youtube.com/watch?v=tj6_dNdckJY)
